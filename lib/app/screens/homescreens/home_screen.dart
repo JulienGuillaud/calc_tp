@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:new_app/app/calcul_controller.dart';
 
+import '../../calcul_controller.dart';
 import 'widgets/my_button.dart';
 import 'widgets/update_calcul_string_state.dart';
 

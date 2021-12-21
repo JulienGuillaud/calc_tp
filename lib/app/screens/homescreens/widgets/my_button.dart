@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:new_app/app/calcul_controller.dart';
+
+import '../../../calcul_controller.dart';
 
 class MyButton extends StatelessWidget {
   const MyButton({
